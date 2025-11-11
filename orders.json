@@ -1,0 +1,47 @@
+{
+  "S68902": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Tony Reimer, Im Lerchenrain 36, 74226 Nordheim, Deutschland",
+    "receiver": "Alois Gruber, Maierlweg 27, 6365 Kirchberg, Österreich",
+    "price": "6.100 €",
+    "description": "Hersteller: Lumag<br>Typ: Sägespaltautomat SSA 500 Z<br>S.N: 0501500117<br>Baujahr: 2023<br><br>Die Maschine ist voll funktionsfähig.",
+    "address": "Alois Gruber<br>Maierlweg 27<br>6365 Kirchberg<br>Österreich<br>Telefon: +4915733685848",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "11.11.2025",
+    "deliveryDate": "17.11.2025",
+    "pickup": {
+      "street": "Rebgartenweg 21",
+      "postal_code": "79576",
+      "city": "Weil am Rhein",
+      "country": "Deutschland",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
